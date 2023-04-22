@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flip coin</string>
+    <string name="click_here">Click here!</string>
+    <string name="value">Value:</string>
+</resources>
